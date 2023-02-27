@@ -1,1 +1,1 @@
-# .github
+#### This project aims to create an up-to-date and comprehensive dataset that tracks changes in the privacy policies of selected companies, with the goal of increasing transparency and awareness around data privacy.
